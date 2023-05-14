@@ -1,5 +1,8 @@
 # PantherHack_Waste_Segregator
 
+https://github.com/hackerbro123/PantherHack_Waste_Segregator/assets/53868600/c7bc28f0-34a5-4751-8a28-81b2db26e1ec
+
+
 
 Inspiration
 =============
