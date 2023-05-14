@@ -1,5 +1,6 @@
 # PantherHack_Waste_Segregator
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/HaAq7ZFjQkI)
 Inspiration
 =============
 The Waste Segregator is an innovative solution that aims to automate the process of waste segregation. The inspiration behind this project came from the growing concern over the improper disposal of waste and the detrimental impact it has on the environment. The Waste Segregator is designed to make waste segregation more efficient and accurate, thereby reducing the amount of waste that ends up in landfills.
