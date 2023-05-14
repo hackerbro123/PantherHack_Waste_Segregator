@@ -20,16 +20,16 @@ void loop() {
     Serial.println(data); // Print the data to the serial monitor
 
       if (data.indexOf("cardboard") != -1) {
-      angle = 30; 
+      angle = 0; 
       }
       else if (data.indexOf("plastic") != -1) {
-      angle = 60;
+      angle = 70;
          } 
        else if (data.indexOf("metal") != -1) {
-      angle = 90;
+      angle = 130;
   } 
   else {
-    angle = 0;
+    angle = 180;
   }
       if (angle > 180) angle = 0; 
       myServo.write(angle);
